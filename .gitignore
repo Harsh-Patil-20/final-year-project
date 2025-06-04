@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Django
+db.sqlite3
+*.log
+staticfiles/
+media/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
